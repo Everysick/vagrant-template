@@ -1,4 +1,3 @@
-
 #!/usr/bin/env bash
 
 test -f ~/bootstrapped && exit
