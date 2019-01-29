@@ -3,7 +3,7 @@
 ## Usage
 
 ```sh
-$ git clone https://github.com/Everysick/vagrant-template.git my_container
-$ cd my_container
+$ git clone https://github.com/s4ichi/vagrant-template.git ubuntu-bionic
+$ cd ubuntu-bionic
 $ vagrant up
 ```
